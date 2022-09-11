@@ -1,2 +1,2 @@
 # follwe
-gecu tjrh cykdro
+עקבו אחרי הערוץ שלי בטלגרם
