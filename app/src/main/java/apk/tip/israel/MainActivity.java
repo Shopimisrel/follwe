@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     Button b;
     Button c;
     Button d;
+    TextView f;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         b = findViewById(R.id.b);
         c = findViewById(R.id.c);
         d = findViewById(R.id.d);
+        f = findViewById(R.id.f);
 
         a.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -52,6 +54,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 gotoUrl("https://t.me/Apk_tip_israel_bot");
+            }
+        });
+
+        f.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                gotoUrl("https://t.me/apt_update_apt_upgrade");
             }
         });
     }
