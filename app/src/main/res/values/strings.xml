@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">apk tip istael</string>
+    <string name="str_a">ערוץ</string>
+    <string name="str_b">דיונים</string>
+    <string name="str_c">קבצים</string>
+    <string name="str_d">רובוט</string>
+    <string name="follwe_me">עקוב אחרי</string>
+    <string name="made">apt_update_apt_upgrade</string>
+
+</resources>
